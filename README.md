@@ -19,3 +19,7 @@ This program is an alarm clock written in assembly language for the emu8086 emul
 6. When the alarm time is reached, an "Alarm!" message will be displayed.
 
 **DISCLAIMER:** The program is designed to run in the emu8086 emulator environment. It may require adjustments for compatibility with other assembly language emulators or environments.
+
+## Contributors
+- Ali Kağan Uzun https://github.com/AliKaganUzun
+- Zeynep Ceren Kocaoğlu https://github.com/zeynepcerenkocaoglu
